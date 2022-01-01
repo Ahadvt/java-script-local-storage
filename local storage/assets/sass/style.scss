@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#task-list{
+    list-style: none;
+   
+    
+    li{  
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+     p{ 
+         margin: 0px;
+     }
+
+    }
+}
